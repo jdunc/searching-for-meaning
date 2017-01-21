@@ -1,1 +1,1 @@
-A simple call to poetry api and flickr api to generate random poetry and images based on a search.  View live at <a href="http://searching-for-meaning.surge.sh">searching-for-meaning.surge.sh</a>
+A simple call to poetry api and flickr api to generate random poetry and images then dynamically place them on the page based on a custom user search.  View live at <a href="http://searching-for-meaning.surge.sh">searching-for-meaning.surge.sh</a>
